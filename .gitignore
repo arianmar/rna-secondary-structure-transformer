@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+models/
+compare/
+
+Deep learning projects 2026-3.pdf
