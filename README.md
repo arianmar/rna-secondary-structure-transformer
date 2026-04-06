@@ -5,7 +5,13 @@ This project trains a Transformer encoder model to predict RNA structures in dot
 It supports new training runs, resuming from model workspaces or snapshots, inference, metric plots, checkpoint inspection, comparison of postprocessing methods, and comparison of multiple models.
 
 ## Authors
-This project was developed by Marcel Arian Hadi (github: @arianmar) and Peregrin Wahle (github: @walpeDEV).
+This project was developed by:
+
+- Marcel Arian Hadi ([arianmar](https://github.com/arianmar))
+- Peregrin Wahle ([walpeDEV](https://github.com/walpeDEV))
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Project Structure
 
